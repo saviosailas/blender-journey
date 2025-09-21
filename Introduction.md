@@ -54,7 +54,7 @@ Use number at Number pad
  
 On Object mode you can **move** and **scale**, but cannot edit object
 
-#### Scale object
+### Scale object
 1. Select the object
 2. Press "S" key and scale it by moving mouse.
 3. Right click to reset resizing.
@@ -68,5 +68,11 @@ Press S + X to scale the object along the width.
 
 Press S + Y to scale along the depth. ( To add thickness of wall ). 
 It stretches or squashes toward and away from the screen (depending on your view).
+
+### Move object
+
+Press "G" and move mouse
+
+Press "G" and "X/Y/Z' to move only in X, Y or Z axis
 
 
