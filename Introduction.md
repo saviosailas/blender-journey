@@ -87,3 +87,22 @@ Press "Z" and select an option
 - **Solid** – The default shading mode; shows solid geometry with basic lighting.
 - **Material Preview** (formerly LookDev) – Shows materials with lighting and shading, good for previewing textures and materials.
 - **Rendered** – Shows the final rendered view using the selected render engine (e.g., Eevee or Cycles).
+
+### Edit mode
+
+<img src="img/edit-mode.png" style="border: 2px gray solid">
+
+
+
+#### Select Vertex
+<img src="img/select-vertex.png" style="border: 2px gray solid">
+
+Press 1 for vertex selection
+Press Shift + click on vertex
+
+### Select Edges
+
+<img src="img/select-edges.png" style="border: 2px gray solid">
+
+Press 2 for Edge selection
+Press Shift + click on edges
