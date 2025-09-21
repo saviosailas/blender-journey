@@ -98,24 +98,25 @@ Press "Z" and select an option
 
 <img src="img/select-vertex.png" style="border: 2px gray solid">
 
-Press 1 for vertex selection
-Press Shift + click on vertex
+1. Press 1 for vertex selection
+2. Press Shift + click on vertex
 
 ### Select Edges
 
 <img src="img/select-edges.png" style="border: 2px gray solid">
 
-Press 2 for Edge selection
-Press Shift + click on edges
+1. Press 2 for Edge selection
+2. Press Shift + click on edges
 
 ### Select Face
 
 <img src="img/select-face.png" style="border: 2px gray solid">
 
-Press 3 for face selection
-Press Shift + click on faces
+1. Press 3 for face selection
+2. Press Shift + click on faces
 
 #### Edit / Select / Face mode GUI
+
 <img src="img/select-face-mode-gui.png" style="border: 2px gray solid">
 
 
