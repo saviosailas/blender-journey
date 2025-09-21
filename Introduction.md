@@ -79,7 +79,7 @@ G + X + 3 - to move 3 steps
 
 ### Shading Pie Menu
 
-<img src="img/shading-pie-menu.png">
+<img src="img/shading-pie-menu.png" style="border: 2px gray solid">
 
 Press "Z" and select an option
 
