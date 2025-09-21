@@ -1,2 +1,2 @@
 
-### [Introduction to Blendar](/Introduction.md)
+### [Introduction to Blender](/Introduction.md)
