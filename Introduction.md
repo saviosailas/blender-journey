@@ -11,7 +11,6 @@ Update it to 0.7
 Click and hold scroll button + move mouse
 
 <img height=500 src="img/01-scroll.png" style="border: 2px gray solid">
-~[[img/01-scroll.png]]
 
 ### Zoom view port
 
@@ -42,5 +41,16 @@ Use number at Number pad
 - Back
 - View selected
 
-![[Object-mode.png]] <img height=250 src="img/object-mode.png" style="border: 2px gray solid">
+
+### Object Mode
+
+ <img src="img/object-mode.png" style="border: 2px gray solid">
+ 
 On Object mode you can **move** and **scale**, but cannot edit object
+
+#### Scale object
+1. Select the object
+2. Press "S" key and scale it by moving mouse.
+3. Right click to reset resizing.
+4. Left click to stop scaling.
+5. Press "S" key + 2 - To scale double the current size
