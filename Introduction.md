@@ -61,3 +61,12 @@ On Object mode you can **move** and **scale**, but cannot edit object
 4. Left click to stop scaling.
 5. Press "S" key + 2 - To scale double the current size
 
+
+Press S + Z to scale the object vertically (height).
+
+Press S + X to scale the object along the width.
+
+Press S + Y to scale along the depth. ( To add thickness of wall ). 
+It stretches or squashes toward and away from the screen (depending on your view).
+
+
