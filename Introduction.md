@@ -120,3 +120,26 @@ Press "Z" and select an option
 <img src="img/select-face-mode-gui.png" style="border: 2px gray solid">
 
 
+### Menu
+
+Press "T" to show/hide left menu.
+
+<img src="img/left-menu.png" style="border: 2px gray solid">
+
+<img src="img/select-box-menu.png" style="border: 2px gray solid"> Select box - Select object using box selection
+
+<img src="img/cursor-menu.png" style="border: 2px gray solid"> Cursor - Set location of Cursor (Drag to transform)
+
+
+
+
+
+### Search
+
+Update the Space bar keybinding to Search
+
+Preference -> Keymap -> Spacebar Action -> Search
+
+<img src="img/spacebar-action.png" style="border: 2px gray solid">
+
+
