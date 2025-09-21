@@ -44,7 +44,7 @@ Use number at Number pad
 
 ### Object Mode
 
- <img src="img/object-mode.png" style="border: 2px gray solid">
+ <img src="img/Object-mode.png" style="border: 2px gray solid">
  
 On Object mode you can **move** and **scale**, but cannot edit object
 
