@@ -163,6 +163,7 @@ Scale - Scale the object
 <img src="img/transform-menu.png" style="border: 2px gray solid"> 
 
 Transform - Scale and Rotate at same time.
+
 <img src="img/transform-menu-object.png" style="border: 2px gray solid">
 
 ### Search
