@@ -25,14 +25,16 @@ layout -> Add -> mesh -> Cube
 
 Use number at Number pad
 
-| Num key | Object orientation                            |
-| ------- | --------------------------------------------- |
-| 1       | Font view                                     |
-| 7       | Top view                                      |
-| 3       | Side view                                     |
-| 9       | Back side of current view                     |
-| 5       | switch between graphic mode/ Perspective mode |
+1 - Font view
 
+7 - Top view
+
+3 - Side view
+
+9 - Back side of current view
+
+5 - switch between graphic mode/ Perspective mode
+ 
 4, 6, 8 and 2: To change object orientation towards Left, Right, Up and bottom
 
 ~  Tilde key (~) and choose option to view 
