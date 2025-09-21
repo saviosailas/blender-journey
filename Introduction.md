@@ -25,9 +25,12 @@ layout -> Add -> mesh -> Cube
 
 Use number at Number pad
 
-1 - Font view 
+1 - Font view
+
 7 - Top view
+
 3 - Side view
+
 9 - Back side of current view
 
 5 -  switch between graphic mode/ Perspective mode
