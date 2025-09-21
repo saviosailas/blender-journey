@@ -75,4 +75,15 @@ Press "G" and move mouse
 
 Press "G" and "X/Y/Z' to move only in X, Y or Z axis
 
+G + X + 3 - to move 3 steps
 
+### Shading Pie Menu
+
+<img src="/img/shading-pie-menu.png">
+
+Press "Z" and select an option
+
+- **Wireframe** – Displays only the edges of the object.
+- **Solid** – The default shading mode; shows solid geometry with basic lighting.
+- **Material Preview** (formerly LookDev) – Shows materials with lighting and shading, good for previewing textures and materials.
+- **Rendered** – Shows the final rendered view using the selected render engine (e.g., Eevee or Cycles).
