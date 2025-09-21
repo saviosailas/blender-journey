@@ -127,14 +127,17 @@ Press "T" to show/hide left menu.
 <img src="img/left-menu.png" style="border: 2px gray solid">
 
 <img src="img/select-box-menu.png" style="border: 2px gray solid"> 
+
 Select box - Select object using box selection
 
 <img src="img/cursor-menu.png" style="border: 2px gray solid"> 
+
 Cursor - Set location of Cursor (Drag to transform)
 
 Reset location of cursor (Search -> "Cursor origin" -> Cursor to world origin)
 
 <img src="img/move-menu.png" style="border: 2px gray solid"> 
+
 Move - Move selected item
 
 <img src="img/move-selected-object.png" style="border: 2px gray solid">
@@ -142,11 +145,15 @@ Move - Move selected item
 - Click on center white circle - Move object in any direction
 
 <img src="img/rotate-emu.png" style="border: 2px gray solid"> 
+
 Rotate - Rotate object
+
 <img src="img/rotate-menu-object.png" style="border: 2px gray solid">
+
 Object can also be rotated by pressing"R" then just move mouse without clicking anything.
 
 <img src="img/scale-menu.png" style="border: 2px gray solid"> 
+
 Scale - Scale the object
 - Click and drag axis arrow for scaling object in that particular axis.
 - Click and drag on white circle to scale object uniformly.
@@ -154,6 +161,7 @@ Scale - Scale the object
 <img src="img/scale-menu-object.png" style="border: 2px gray solid">
 
 <img src="img/transform-menu.png" style="border: 2px gray solid"> 
+
 Transform - Scale and Rotate at same time.
 <img src="img/transform-menu-object.png" style="border: 2px gray solid">
 
